@@ -1,0 +1,962 @@
+[
+  {
+    "id": 0,
+    "legacyName": "earthshaker",
+    "name": "earthshaker",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/earthshaker_sb.png?v=6422078"
+  },
+  {
+    "id": 1,
+    "name": "sven",
+    "legacyName": "sven",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/sven_sb.png?v=6422078"
+  },
+  {
+    "id": 2,
+    "name": "tiny",
+    "legacyName": "tiny",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/tiny_sb.png?v=6422078"
+  },
+  {
+    "name": "kunkka",
+    "id": 3,
+    "legacyName": "kunkka",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/kunkka_sb.png?v=6422078"
+  },
+  {
+    "id": 4,
+    "legacyName": "beastmaster",
+    "name": "beastmaster",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/beastmaster_sb.png?v=6422078"
+  },
+  {
+    "id": 5,
+    "name": "dragon knight",
+    "legacyName": "dragon_knight",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/dragon_knight_sb.png?v=6422078"
+  },
+  {
+    "id": 6,
+    "legacyName": "rattletrap",
+    "name": "clockwerk",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/rattletrap_sb.png?v=6422078"
+  },
+  {
+    "id": 7,
+    "legacyName": "omniknight",
+    "name": "omniknight",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/omniknight_sb.png?v=6422078"
+  },
+  {
+    "id": 8,
+    "legacyName": "huskar",
+    "name": "huskar",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/huskar_sb.png?v=6422078"
+  },
+  {
+    "id": 9,
+    "legacyName": "alchemist",
+    "name": "alchemist",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/alchemist_sb.png?v=6422078"
+  },
+  {
+    "id": 10,
+    "legacyName": "brewmaster",
+    "name": "brewmaster",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/brewmaster_sb.png?v=6422078"
+  },
+  {
+    "id": 11,
+    "legacyName": "treant",
+    "name": "treant protector",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/treant_sb.png?v=6422078"
+  },
+  {
+    "id": 12,
+    "legacyName": "wisp",
+    "name": "io",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/wisp_sb.png?v=6422078"
+  },
+  {
+    "id": 13,
+    "legacyName": "centaur",
+    "name": "centaur warruner",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/centaur_sb.png?v=6422078"
+  },
+  {
+    "id": 14,
+    "legacyName": "shredder",
+    "name": "timbersaw",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/shredder_sb.png?v=6422078"
+  },
+  {
+    "id": 15,
+    "legacyName": "bristleback",
+    "name": "bristleback",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/bristleback_sb.png?v=6422078"
+  },
+  {
+    "id": 16,
+    "legacyName": "tusk",
+    "name": "tusk",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/tusk_sb.png?v=6422078"
+  },
+  {
+    "id": 17,
+    "legacyName": "elder_titan",
+    "name": "elder titan",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/elder_titan_sb.png?v=6422078"
+  },
+  {
+    "id": 18,
+    "legacyName": "legion_commander",
+    "name": "legion commander",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/legion_commander_sb.png?v=6422078"
+  },
+  {
+    "id": 19,
+    "legacyName": "earth_spirit",
+    "name": "earth spirit",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/earth_spirit_sb.png?v=6422078"
+  },
+  {
+    "id": 20,
+    "legacyName": "phoenix",
+    "name": "phoenix",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/phoenix_sb.png?v=6422078"
+  },
+  {
+    "id": 21,
+    "legacyName": "mars",
+    "name": "mars",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/mars_sb.png?v=6422078"
+  },
+  {
+    "id": 22,
+    "name": "snapfire",
+    "legacyName": "snapfire",
+    "side": "radiant",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/snapfire_sb.png?v=6422078"
+  },
+  {
+    "id": 23,
+    "legacyName": "antimage",
+    "name": "antimage",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/antimage_sb.png?v=6422078"
+  },
+  {
+    "id": 24,
+    "legacyName": "drowranger",
+    "name": "drow ranger",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/drow_ranger_sb.png?v=6422078"
+  },
+  {
+    "id": 25,
+    "legacyName": "juggernaut",
+    "name": "juggernaut",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/juggernaut_sb.png?v=6422078"
+  },
+  {
+    "id": 26,
+    "legacyName": "mirana",
+    "name": "mirana",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/mirana_sb.png?v=6422078"
+  },
+  {
+    "id": 27,
+    "legacyName": "morphling",
+    "name": "morphling",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/morphling_sb.png?v=6422078"
+  },
+  {
+    "id": 28,
+    "legacyName": "phantom_lancer",
+    "name": "phantom lancer",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/phantom_lancer_sb.png?v=6422078"
+  },
+  {
+    "id": 29,
+    "legacyName": "vengefulspirit",
+    "name": "vengeful spirit",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/vengefulspirit_sb.png?v=6422078"
+  },
+  {
+    "id": 30,
+    "legacyName": "riki",
+    "name": "riki",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/riki_sb.png?v=6422078"
+  },
+  {
+    "id": 31,
+    "legacyName": "sniper",
+    "name": "sniper",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/sniper_sb.png?v=6422078"
+  },
+  {
+    "id": 32,
+    "legacyName": "templar_assassin",
+    "name": "templar assassin",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/templar_assassin_sb.png?v=6422078"
+  },
+  {
+    "id": 33,
+    "legacyName": "luna",
+    "name": "luna",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/luna_sb.png?v=6422078"
+  },
+  {
+    "id": 34,
+    "legacyName": "bounty_hunter",
+    "name": "bounty hunter",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/bounty_hunter_sb.png?v=6422078"
+  },
+  {
+    "id": 35,
+    "legacyName": "ursa",
+    "name": "ursa",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/ursa_sb.png?v=6422078"
+  },
+  {
+    "id": 36,
+    "legacyName": "gyrocopter",
+    "name": "gyrocopter",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/gyrocopter_sb.png?v=6422078"
+  },
+  {
+    "id": 37,
+    "legacyName": "lone_druid",
+    "name": "lone druid",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/lone_druid_sb.png?v=6422078"
+  },
+  {
+    "id": 38,
+    "legacyName": "naga_siren",
+    "name": "naga siren",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/naga_siren_sb.png?v=6422078"
+  },
+  {
+    "id": 39,
+    "legacyName": "troll_warlord",
+    "name": "troll warlord",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/troll_warlord_sb.png?v=6422078"
+  },
+  {
+    "id": 40,
+    "legacyName": "ember_spirit",
+    "name": "ember spirit",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/ember_spirit_sb.png?v=6422078"
+  },
+  {
+    "id": 41,
+    "legacyName": "monkey_king",
+    "name": "monkey king",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/monkey_king_sb.png?v=6422078"
+  },
+  {
+    "id": 42,
+    "legacyName": "pangolin",
+    "name": "pangolier",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/pangolier_sb.png?v=6422078"
+  },
+  {
+    "id": 43,
+    "legacyName": "hoodwink",
+    "name": "hoodwink",
+    "side": "radiant",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/hoodwink_sb.png?v=6422078"
+  },
+  {
+    "id": 44,
+    "legacyName": "crystalmaiden",
+    "name": "crystal maiden",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/crystal_maiden_sb.png?v=6422078"
+  },
+  {
+    "id": 45,
+    "legacyName": "puck",
+    "name": "puck",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/puck_sb.png?v=6422078"
+  },
+  {
+    "id": 46,
+    "legacyName": "stormspirit",
+    "name": "storm spirit",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/storm_spirit_sb.png?v=6422078"
+  },
+  {
+    "id": 47,
+    "legacyName": "windrunner",
+    "name": "windrunner",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/windrunner_sb.png?v=6422078"
+  },
+  {
+    "id": 48,
+    "legacyName": "zuus",
+    "name": "zeus",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/zuus_sb.png?v=6422078"
+  },
+  {
+    "id": 49,
+    "legacyName": "lina",
+    "name": "lina",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/lina_sb.png?v=6422078"
+  },
+  {
+    "id": 50,
+    "legacyName": "shadowshaman",
+    "name": "shadow shaman",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/shadow_shaman_sb.png?v=6422078"
+  },
+  {
+    "id": 51,
+    "legacyName": "tinker",
+    "name": "tinker",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/tinker_sb.png?v=6422078"
+  },
+  {
+    "id": 52,
+    "legacyName": "furion",
+    "name": "nature's prophet",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/furion_sb.png?v=6422078"
+  },
+  {
+    "id": 53,
+    "legacyName": "enchantress",
+    "name": "enchantress",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/enchantress_sb.png?v=6422078"
+  },
+  {
+    "id": 54,
+    "legacyName": "jakiro",
+    "name": "jakiro",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/jakiro_sb.png?v=6422078"
+  },
+  {
+    "id": 55,
+    "legacyName": "chen",
+    "name": "chen",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/chen_sb.png?v=6422078"
+  },
+  {
+    "id": 56,
+    "legacyName": "silencer",
+    "name": "silencer",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/silencer_sb.png?v=6422078"
+  },
+  {
+    "id": 57,
+    "legacyName": "ogre_magi",
+    "name": "ogre magi",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/ogre_magi_sb.png?v=6422078"
+  },
+  {
+    "id": 58,
+    "legacyName": "rubick",
+    "name": "rubick",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/rubick_sb.png?v=6422078"
+  },
+  {
+    "id": 59,
+    "legacyName": "disruptor",
+    "name": "disruptor",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/disruptor_sb.png?v=6422078"
+  },
+  {
+    "id": 60,
+    "legacyName": "keeper_of_the_light",
+    "name": "keeper of the light",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/keeper_of_the_light_sb.png?v=6422078"
+  },
+  {
+    "id": 61,
+    "legacyName": "skywrath_mage",
+    "name": "skywrath mage",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/skywrath_mage_sb.png?v=6422078"
+  },
+  {
+    "id": 62,
+    "legacyName": "oracle",
+    "name": "oracle",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/oracle_sb.png?v=6422078"
+  },
+  {
+    "id": 63,
+    "legacyName": "techies",
+    "name": "techies",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/techies_sb.png?v=6422078"
+  },
+  {
+    "id": 64,
+    "legacyName": "dark_willow",
+    "name": "dark willow",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/dark_willow_sb.png?v=6422078"
+  },
+  {
+    "id": 65,
+    "legacyName": "void_spirit",
+    "name": "void spirit",
+    "side": "radiant",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/void_spirit_sb.png?v=6422078"
+  },
+  {
+    "id": 66,
+    "legacyName": "axe",
+    "name": "axe",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/axe_sb.png?v=6422078"
+  },
+  {
+    "id": 67,
+    "legacyName": "pudge",
+    "name": "pudge",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/pudge_sb.png?v=6422078"
+  },
+  {
+    "id": 68,
+    "legacyName": "sandking",
+    "name": "sand king",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/sand_king_sb.png?v=6422078"
+  },
+  {
+    "id": 69,
+    "legacyName": "slardar",
+    "name": "slardar",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/slardar_sb.png?v=6422078"
+  },
+  {
+    "id": 70,
+    "legacyName": "tidehunter",
+    "name": "tidehunter",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/tidehunter_sb.png?v=6422078"
+  },
+  {
+    "id": 71,
+    "legacyName": "skeleton_king",
+    "name": "wraith king",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/skeleton_king_sb.png?v=6422078"
+  },
+  {
+    "id": 72,
+    "legacyName": "life_stealer",
+    "name": "life stealer",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/life_stealer_sb.png?v=6422078"
+  },
+  {
+    "id": 73,
+    "legacyName": "night_stalker",
+    "name": "night stalker",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/night_stalker_sb.png?v=6422078"
+  },
+  {
+    "id": 74,
+    "legacyName": "doom_bringer",
+    "name": "doom",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/doom_bringer_sb.png?v=6422078"
+  },
+  {
+    "id": 75,
+    "legacyName": "spirit_breaker",
+    "name": "spirit breaker",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/spirit_breaker_sb.png?v=6422078"
+  },
+  {
+    "id": 76,
+    "legacyName": "lycan",
+    "name": "lycan",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/lycan_sb.png?v=6422078"
+  },
+  {
+    "id": 77,
+    "legacyName": "chaos_knight",
+    "name": "chaos knight",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/chaos_knight_sb.png?v=6422078"
+  },
+  {
+    "id": 78,
+    "legacyName": "undying",
+    "name": "undying",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/undying_sb.png?v=6422078"
+  },
+  {
+    "id": 79,
+    "legacyName": "magnataur",
+    "name": "magnus",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/magnataur_sb.png?v=6422078"
+  },
+  {
+    "id": 80,
+    "legacyName": "abaddon",
+    "name": "abbaddon",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/abaddon_sb.png?v=6422078"
+  },
+  {
+    "id": 81,
+    "legacyName": "abyssal_underlord",
+    "name": "underlord",
+    "side": "dire",
+    "attribute": "strength",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/abyssal_underlord_sb.png?v=6422078"
+  },
+  {
+    "id": 82,
+    "legacyName": "bloodseeker",
+    "name": "bloodseeker",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/bloodseeker_sb.png?v=6422078"
+  },
+  {
+    "id": 83,
+    "legacyName": "nevermore",
+    "name": "shadow fiend",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/nevermore_sb.png?v=6422078"
+  },
+  {
+    "id": 84,
+    "legacyName": "razor",
+    "name": "razor",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/razor_sb.png?v=6422078"
+  },
+  {
+    "id": 85,
+    "legacyName": "venomancer",
+    "name": "venomancer",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/venomancer_sb.png?v=6422078"
+  },
+  {
+    "id": 86,
+    "legacyName": "faceless_void",
+    "name": "faceless void",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/faceless_void_sb.png?v=6422078"
+  },
+  {
+    "id": 87,
+    "legacyName": "phantom_assassin",
+    "name": "phantom assassin",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/phantom_assassin_sb.png?v=6422078"
+  },
+  {
+    "id": 88,
+    "legacyName": "viper",
+    "name": "viper",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/viper_sb.png?v=6422078"
+  },
+  {
+    "id": 89,
+    "legacyName": "clinkz",
+    "name": "clinkz",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/clinkz_sb.png?v=6422078"
+  },
+  {
+    "id": 90,
+    "legacyName": "broodmother",
+    "name": "broodmother",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/broodmother_sb.png?v=6422078"
+  },
+  {
+    "id": 91,
+    "legacyName": "weaver",
+    "name": "weaver",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/weaver_sb.png?v=6422078"
+  },
+  {
+    "id": 92,
+    "legacyName": "spectre",
+    "name": "spectre",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/spectre_sb.png?v=6422078"
+  },
+  {
+    "id": 93,
+    "legacyName": "meepo",
+    "name": "meepo",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/meepo_sb.png?v=6422078"
+  },
+  {
+    "id": 94,
+    "legacyName": "nyx_assassin",
+    "name": "nyx assassin",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/nyx_assassin_sb.png?v=6422078"
+  },
+  {
+    "id": 95,
+    "legacyName": "slark",
+    "name": "slark",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/slark_sb.png?v=6422078"
+  },
+  {
+    "id": 96,
+    "legacyName": "medusa",
+    "name": "medusa",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/medusa_sb.png?v=6422078"
+  },
+  {
+    "id": 97,
+    "legacyName": "terrorblade",
+    "name": "terrorblade",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/terrorblade_sb.png?v=6422078"
+  },
+  {
+    "id": 98,
+    "legacyName": "arc_warden",
+    "name": "arc warden",
+    "side": "dire",
+    "attribute": "agility",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/arc_warden_sb.png?v=6422078"
+  },
+  {
+    "id": 99,
+    "legacyName": "bane",
+    "name": "bane",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/bane_sb.png"
+  },
+  {
+    "id": 100,
+    "legacyName": "lich",
+    "name": "lich",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/lich_sb.png"
+  },
+  {
+    "id": 101,
+    "legacyName": "lion",
+    "name": "lion",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/lion_sb.png"
+  },
+  {
+    "id": 102,
+    "legacyName": "witchdoctor",
+    "name": "witch doctor",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/witch_doctor_sb.png"
+  },
+  {
+    "id": 103,
+    "legacyName": "enigma",
+    "name": "enigma",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/enigma_sb.png"
+  },
+  {
+    "id": 104,
+    "legacyName": "necrolyte",
+    "name": "necrolyte",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/necrolyte_sb.png"
+  },
+  {
+    "id": 105,
+    "legacyName": "warlock",
+    "name": "warlock",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/warlock_sb.png"
+  },
+  {
+    "id": 106,
+    "legacyName": "queenofpain",
+    "name": "queen of pain",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/queenofpain_sb.png"
+  },
+  {
+    "id": 107,
+    "legacyName": "death_prophet",
+    "name": "death prophet",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/death_prophet_sb.png"
+  },
+  {
+    "id": 108,
+    "legacyName": "pugna",
+    "name": "pugna",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/pugna_sb.png"
+  },
+  {
+    "id": 109,
+    "legacyName": "dazzle",
+    "name": "dazzle",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/dazzle_sb.png"
+  },
+  {
+    "id": 110,
+    "legacyName": "leshrac",
+    "name": "leshrac",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/leshrac_sb.png"
+  },
+  {
+    "id": 111,
+    "legacyName": "dark_seer",
+    "name": "dark seer",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/dark_seer_sb.png"
+  },
+  {
+    "id": 112,
+    "legacyName": "batrider",
+    "name": "batrider",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/batrider_sb.png"
+  },
+  {
+    "id": 113,
+    "legacyName": "ancient_apparition",
+    "name": "ancient apparition",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/ancient_apparition_sb.png"
+  },
+  {
+    "id": 114,
+    "legacyName": "invoker",
+    "name": "invoker",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/invoker_sb.png"
+  },
+  {
+    "id": 115,
+    "legacyName": "outworld_destroyer",
+    "name": "outworld devourer",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/obsidian_destroyer_sb.png"
+  },
+  {
+    "id": 116,
+    "legacyName": "shadow_demon",
+    "name": "shadow demon",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/shadow_demon_sb.png"
+  },
+  {
+    "id": 117,
+    "legacyName": "visage",
+    "name": "visage",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/visage_sb.png"
+  },
+  {
+    "id": 118,
+    "legacyName": "winter_wyvern",
+    "name": "winter wyvern",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/winter_wyvern_sb.png"
+  },
+  {
+    "id": 119,
+    "legacyName": "grimstroke",
+    "name": "grimstroke",
+    "side": "dire",
+    "attribute": "intelligence",
+    "link": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/heroes/grimstroke_sb.png"
+  }
+]
